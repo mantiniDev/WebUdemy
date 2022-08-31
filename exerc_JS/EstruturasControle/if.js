@@ -8,4 +8,5 @@ function soBoNota(nota){
 }
 
 soBoNota(9.1)
+soBoNota(9.1)
 soBoNota(5.1)
